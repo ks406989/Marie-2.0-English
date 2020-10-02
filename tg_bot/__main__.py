@@ -35,17 +35,20 @@ For more commands click /help...
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hey there! My name *{}*.
 
-*Main* available commands:
- - /start: Start the bot...
- - /help: help....
- - /donate: To find out more about donating!
- - /settings:
-   - in PM: To find out what SETTINGS you have set....
-   - in a group:
+I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
+Main commands available:
+ 💠 - /start: start the bot
+ 💠 - /help: PM's you this message.
+ 💠 - /help <module name>: PM's you info about that module.
+ 💠 - /source: Information about my source.
+ 💠 - /settings:
+   🔹 - in PM: will send you your settings for all supported modules.
+   🔹 - in a group: will redirect you to pm, with all that chat's settings.
 
-{}
+All commands can either be used with / or !.
+
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
