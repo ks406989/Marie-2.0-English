@@ -22,7 +22,8 @@ Hey {}, my name is {}! if you have any questions about how to use me please give
 
 I'm a group manager bot maintained by  [This Person](tg://user?id={}).
 
-My future updates will be put into This Channel - @HindiXstream & My Support Group https://t.me/joinchat/LPiwRFTR7ZhGvirR0s49Cg
+My future updates will be put into This Channel - @HindiXstream &
+My Support Group https://t.me/joinchat/LPiwRFTR7ZhGvirR0s49Cg
 
 This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
 you can create clone same like me..
