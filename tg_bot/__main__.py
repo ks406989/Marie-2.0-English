@@ -20,12 +20,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hey {}, my name is {}!  if you have any questions about how to use me please give me /help... 
 
-I'm a group manager bot maintained by  [This Person](tg://user?id={}).
+I'm a group manager bot maintained by  [This Person](tg://user?id={})
+Update Channel - @HxBots 
+Support Group  - @HxSupport
 
-My future updates will be put into This Channel - @HindiXstream &
-My Support Group https://t.me/joinchat/LPiwRFTR7ZhGvirR0s49Cg
-
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
+This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Kirodewal/Marie-2.0-English),
 you can create clone same like me..
 
 For more commands click /help...
@@ -57,7 +56,7 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/Kamlesh_Kirodewal) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/KamleshKirodewal), or [Not Available Right Now](https://t.me/joinchat/AAAAAEj0PtgvUU92SQzpwQ).""" 
+There are two ways of paying him;\n [PayPal](paypal.me/KamleshKirodewal), or \n [UPI](https://pay2me.vercel.app/kkirodewal@okaxis).""" 
 
 IMPORTED = {}
 MIGRATEABLE = []
